@@ -1,0 +1,10 @@
+C:\Users\merticois\source\repos\DnD_3.5_CharacterCreator_Win\DnD_3.5_CharacterCreator_Win\bin\Debug\DnD_3.5_CharacterCreator_Win.exe.config
+C:\Users\merticois\source\repos\DnD_3.5_CharacterCreator_Win\DnD_3.5_CharacterCreator_Win\bin\Debug\DnD_3.5_CharacterCreator_Win.exe
+C:\Users\merticois\source\repos\DnD_3.5_CharacterCreator_Win\DnD_3.5_CharacterCreator_Win\bin\Debug\DnD_3.5_CharacterCreator_Win.pdb
+C:\Users\merticois\source\repos\DnD_3.5_CharacterCreator_Win\DnD_3.5_CharacterCreator_Win\obj\Debug\DnD_3.5_CharacterCreator_Win.csprojAssemblyReference.cache
+C:\Users\merticois\source\repos\DnD_3.5_CharacterCreator_Win\DnD_3.5_CharacterCreator_Win\obj\Debug\DnD_3._5_CharacterCreator_Win.Form1.resources
+C:\Users\merticois\source\repos\DnD_3.5_CharacterCreator_Win\DnD_3.5_CharacterCreator_Win\obj\Debug\DnD_3._5_CharacterCreator_Win.Properties.Resources.resources
+C:\Users\merticois\source\repos\DnD_3.5_CharacterCreator_Win\DnD_3.5_CharacterCreator_Win\obj\Debug\DnD_3.5_CharacterCreator_Win.csproj.GenerateResource.cache
+C:\Users\merticois\source\repos\DnD_3.5_CharacterCreator_Win\DnD_3.5_CharacterCreator_Win\obj\Debug\DnD_3.5_CharacterCreator_Win.csproj.CoreCompileInputs.cache
+C:\Users\merticois\source\repos\DnD_3.5_CharacterCreator_Win\DnD_3.5_CharacterCreator_Win\obj\Debug\DnD_3.5_CharacterCreator_Win.exe
+C:\Users\merticois\source\repos\DnD_3.5_CharacterCreator_Win\DnD_3.5_CharacterCreator_Win\obj\Debug\DnD_3.5_CharacterCreator_Win.pdb
